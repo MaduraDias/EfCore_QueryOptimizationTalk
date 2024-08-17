@@ -1,0 +1,1 @@
+# EfCore_QueryOptimizationTalk
